@@ -178,6 +178,6 @@ curl a06aa56b81f5741268daca84dca6b4f8-694631959.us-east-1.elb.amazonaws.com:80
 Thank you for taking the time to work on this tutorial/labs. Let me know your thoughts on this!
 
 
-#### By [Gayatri](https://github.com/gayatrijeebu)
+#### By [Gayatri] (https://github.com/gayatrijeebu)
 
 Ensure to follow me on GitHub. Please star/share this repository!
